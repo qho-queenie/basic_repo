@@ -1,0 +1,27 @@
+*{
+  padding: 0px;
+  margin: 0px;
+}
+#wrapper{
+width: 1000px;
+ background-color: pink;
+ padding: 5px;
+}
+
+#wrapper {
+background-color: pink;
+}
+
+#content {
+background-color: pink;
+}
+
+
+#conent p{
+font-weight: bold;
+}
+
+.doggie {
+display: inline-block;
+vertical-align: top;
+}
